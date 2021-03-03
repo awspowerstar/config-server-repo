@@ -1,0 +1,3 @@
+my:
+   greeting: Hello World from Config Server default
+   list: One, Two, Three from Config Server default
